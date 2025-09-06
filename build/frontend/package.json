@@ -1,0 +1,1 @@
+{\n  "name": "quotes-app",\n  "version": "1.0.0",\n  "description": "A simple quotes display app using FastAPI backend",\n  "main": "index.js",\n  "scripts": {\n    "start": "lite-server"\n  },\n  "dependencies": {},\n  "devDependencies": {\n    "lite-server": "^2.6.1"\n  }\n}
